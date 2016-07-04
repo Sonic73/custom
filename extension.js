@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "basicBot";
+    var fork = "sonic73";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -51,8 +51,8 @@
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 1, // 1-200
-      startupVolume: 0, // 0-100
+      startupCap: 10, // 1-200
+      startupVolume: 1, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
       autoskip: false,
@@ -72,7 +72,7 @@
       voteSkipLimit: 10,
       historySkip: false,
       timeGuard: true,
-      maximumSongLength: 10,
+      maximumSongLength: 6,
       autodisable: true,
       commandCooldown: 30,
       usercommandsEnabled: true,
@@ -90,14 +90,14 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Temporary Message of the Day",
+      motd: "Testing the scripts",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
       opLink: null,
       rulesLink: null,
       themeLink: null,
-      fbLink: null,
+      fbLink: "https://www.facebook.com/groups/The.Dungeon.on.Plug.dj",
       youtubeLink: null,
       website: null,
       intervalMessages: [],
