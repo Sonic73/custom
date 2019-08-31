@@ -102,7 +102,7 @@
       website: null,
       intervalMessages: ["We recommend RCS plugin and Zoom to 67% on browser for best room view"],
       messageInterval: 5,
-      songstats: true,
+      songstats: false,
       commandLiteral: "!",
       blacklists: {
         NSFW: "https://raw.githack.com/basicBot/custom/master/blacklists/NSFWlist.json",
