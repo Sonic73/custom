@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "basicBot",
+      botName: "Dungeon Bot",
       language: "english",
       chatLink: "https://raw.githack.com/Sonic73/custom/master/lang/en.json",
       scriptLink: "https://raw.githack.com/basicBot/source/master/basicBot.js",
