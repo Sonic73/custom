@@ -90,7 +90,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Testing the scripts",
+      motd: "<b>Testing the scripts</b>",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
