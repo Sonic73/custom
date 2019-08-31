@@ -96,7 +96,7 @@
       welcome: true,
       opLink: null,
       rulesLink: null,
-      themeLink: null,
+      themeLink: "We recommend RCS plugin and Zoom to 67% on browser for best room view",
       fbLink: "https://www.facebook.com/groups/The.Dungeon.on.Plug.dj",
       youtubeLink: null,
       website: null,
