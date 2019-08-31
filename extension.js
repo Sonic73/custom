@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: "Max play time 6 min or song maybe skipped (auto skipper in force at busy times). Music type is ROCK, METAL, SKA, DUBSTEP, No RAP, HIP HOP, TROLLING or be skipped/kicked. Mods decision is final. Try to play songs with video not just a static image. All chat to be in English",
       themeLink: null,
       fbLink: "https://www.facebook.com/groups/The.Dungeon.on.Plug.dj",
       youtubeLink: null,
