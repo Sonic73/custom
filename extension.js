@@ -71,7 +71,7 @@
       voteSkip: false,
       voteSkipLimit: 10,
       historySkip: false,
-      timeGuard: true,
+      timeGuard: false,
       maximumSongLength: 6,
       autodisable: true,
       commandCooldown: 30,
