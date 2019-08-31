@@ -51,15 +51,15 @@
       chatLink: "https://raw.githack.com/Sonic73/custom/master/lang/en.json",
       scriptLink: "https://raw.githack.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 10, // 1-200
+      startupCap: 20, // 1-200
       startupVolume: 1, // 0-100
-      startupEmoji: true, // true or false
+      startupEmoji: false, // true or false
       autowoot: true,
       autoskip: false,
       smartSkip: true,
       cmdDeletion: true,
       maximumAfk: 120,
-      afkRemoval: true,
+      afkRemoval: false,
       maximumDc: 60,
       bouncerPlus: true,
       blacklistEnabled: true,
