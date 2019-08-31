@@ -49,7 +49,7 @@
       botName: "basicBot",
       language: "english",
       chatLink: "https://raw.githack.com/Sonic73/custom/master/lang/en.json",
-      scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+      scriptLink: "https://raw.githack.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 10, // 1-200
       startupVolume: 1, // 0-100
@@ -112,6 +112,6 @@
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/basicBot/source/master/basicBot.js", extend);
+    $.getScript("https://raw.githack.com/basicBot/source/master/basicBot.js", extend);
 
 }).call(this);
